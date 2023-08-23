@@ -5,5 +5,4 @@ const ActiveMenuContext = React.createContext({
   changeActiveMenu: () => {},
 })
 
-
 export default ActiveMenuContext
